@@ -1,6 +1,6 @@
 ## TomBois Remake
 ### Description:
-Tombois link: http://www.tomboysburgers.com/index.html
+Tombois link: http://www.tomboysburgers.com/index.htm
 <br>
 Helping local restraurant by improving online websites to promote meals to the public.
 
