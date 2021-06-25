@@ -1,0 +1,55 @@
+.nav-section {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    margin-right: 50px;
+}
+
+.nav-section,
+a {
+    text-decoration: none;
+    outline-color: rgb(126, 135, 255);
+    color: black;
+    font-weight: bold;
+    list-style-type: none;
+}
+
+.nav-section,
+li {
+    display: inline-block;
+    padding: 0px 25px;
+    padding-top: 24px;
+    font-size: 18px;
+}
+
+.TBlogo {
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: rgba(255, 240, 198, 0.5);
+    margin-top: -22px;
+}
+
+.tb-logo {
+    height: 75px;
+    width: 100px;
+    background: url('./images/tomboislogopt2.png');
+    background-size: cover;
+    background-position: center;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+body {
+    background-image: url('./videos/burgerpic.gif');
+    background-size: cover;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
