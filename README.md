@@ -11,7 +11,8 @@ To Do
 <strike> Create maquee banner with burger?
 <br>Create hyperlink on locations and carousel that changes location based on what Tomboys youre looking at </strike>
 - [x] make logos with transparent background
-- [ ] Make nav bar mobile friendly
+- [x] Make nav bar mobile friendly
+  - [ ] Taking too much time to fix links so its on standby while we work on other parts
 - [ ] Creating Social media links
 - [ ] Creating footer with contact info link, copyright, types of credit cards accepted
 - [ ] Make header larger to make it stand out from the smaller text
