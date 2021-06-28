@@ -14,8 +14,13 @@ To Do
 - [x] Make nav bar mobile friendly
   - [ ] Taking too much time to fix links so its on standby while we work on other parts
 - [ ] Creating Social media links
-- [ ] Creating footer with contact info link, copyright, types of credit cards accepted
+- [ ] Create a footer:
+  - [ ] contact info link
+  - [ ] copyright
+  - [ ] types of credit cards accepted
 - [ ] Make header larger to make it stand out from the smaller text
+- [ ] refactor css into their own files (ex. footer.css, map.css, etc.).
+- [ ] Look at other fast food restraunts for reference. (Using up all the page with large images/carousels)
 
 
 
