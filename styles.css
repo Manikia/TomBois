@@ -86,19 +86,31 @@ label {
     display: none;
 }
 
+.menu-container {
+    background-color: rgb(255, 220, 24);
+    margin: 10px 60px;
+    border-radius: 10px;
+    border-left: 20px solid rgb(153, 51, 0);
+    border-right: 20px solid rgb(153, 51, 0);
+    border-top: 20px solid rgb(153, 51, 0);
+    border-bottom: 20px solid rgb(153, 51, 0);
+    padding-bottom: 1rem;
+}
+
 .menu-container table {
     width: 80%;
     margin: 0 auto;
     text-align: left;
-    background-color: #EAEAEB;
+    background-color: #ffffff00;
     padding: 8px;
     border-radius: 5px;
+    color: rgb(71, 71, 71);
+    outline-color: black;
 }
 
 .menu-heading {
     text-align: center;
-    color: rgb(208, 255, 100);
-    text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+    color: rgb(4, 78, 151);
     padding: 10px;
     border-radius: 5px;
 }
